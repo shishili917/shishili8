@@ -1,0 +1,12 @@
+name: "shi shi's website"
+output_dir: "."
+navbar:
+  title: "Shi Shi Li"
+  left:
+  - text: "Homework10"
+    href: index.html
+
+output:
+  html_document:
+    theme: simplex
+    highlight: textmate
